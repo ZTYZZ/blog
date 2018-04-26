@@ -103,3 +103,13 @@ li {
 ```
 
 答:　[答案及效果](https://codepen.io/try1best/pen/wjzWjQ)
+
+# 关于实践环节的一些问题.
+1, 百度前端学院如何实现一个如图的效果下图的效果:
+![](https://upload-images.jianshu.io/upload_images/271046-59351d8c645ca9e2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+2. 分析上面的图最上方为何有一段距离的原因,如何去掉?(在padding和margin都设为0的情况下)
+
+.打开调试工具可以看到,就是h1这个标签的有了margin属性,margin属性是不可继承的.详细了解css的继承性.
+[哪些可以继承,哪些不可以继承](https://www.cnblogs.com/thislbq/p/5882105.html)
+[继承深度剖析](https://www.cnblogs.com/Chen-XiaoJun/p/6213173.html)
