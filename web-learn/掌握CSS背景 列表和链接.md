@@ -1,6 +1,8 @@
 # 资料
 阅读以下资料,回答问题.
+
 1.[w3school背景](http://www.w3school.com.cn/css/css_background.asp)
+
 2. [MDN背景](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Styling_boxes/%E8%83%8C%E6%99%AF)
 
 3. [CSS边框](http://www.w3school.com.cn/css/css_border.asp)
@@ -9,7 +11,11 @@
 
 5. [CSS列表](http://www.w3school.com.cn/css/css_list.asp)
 
-6. [CSS链接](http://www.w3school.com.cn/css/css_link.asp)
+6. [MDN列表](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/%E4%B8%BA%E6%96%87%E6%9C%AC%E6%B7%BB%E5%8A%A0%E6%A0%B7%E5%BC%8F/Styling_lists)
+
+7. [CSS链接](http://www.w3school.com.cn/css/css_link.asp)
+
+8. [MDN链接](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/%E4%B8%BA%E6%96%87%E6%9C%AC%E6%B7%BB%E5%8A%A0%E6%A0%B7%E5%BC%8F/Styling_links)
 
 # 问题
 1. 什么是背景?
@@ -20,7 +26,7 @@
 2. 关于继承的问题,是不是说CSS中继承是可改变的呢?背景元素是继承的吗?如何看待在父标签设置背景,子标签依然看的见的问题?
 如何将不可继承的属性,设置成可继承的呢???
 
-答:[参考连接](https://www.zhihu.com/question/53234935)
+	答:[参考连接](https://www.zhihu.com/question/53234935)
 
 3. 在设置背的时候,如何让背景看起来向外延伸一段距离?
 
