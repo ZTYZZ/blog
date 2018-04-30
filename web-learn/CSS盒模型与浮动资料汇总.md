@@ -4,6 +4,13 @@
 3. [W3C盒模型](https://www.w3.org/TR/2011/REC-CSS2-20110607/box.html#box-model)
 
 ４．[MDN浮动](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Floats)
+
+5. [W3C浮动](https://www.w3.org/TR/2011/REC-CSS2-20110607/visuren.html#floats)
+
+6. [那些年我们一起清除过的浮动](http://www.iyunlu.com/view/css-xhtml/55.html)
+
+7. [What methods of ‘clearfix’ can I use?
+](https://stackoverflow.com/questions/211383/what-methods-of-clearfix-can-i-use)
 # 问题
 1. 多个盒子模型嵌套时,哪个是外层的content呢?试着仔细思考.
 
@@ -15,3 +22,4 @@
 
 4. `margin`属性设置成三个值,那么最后一个left边被设置成什么值呢?
 
+5. 浮动元素可以通过设置外边距来和非浮动元素建立空隙吗？那反过来呢？
