@@ -32,3 +32,5 @@
 1. 有时候会使用`font-size: 0;`是什么意思？用float还用写这个么？
 2. 在使用`display:inline-block`进行多列布局的时候，会出现顶部不齐的现象，这是后用什么解决呢？
 解决见`twoColume/style5.css`
+
+3. 三列布局的时候，能否通过`float`和`margin`进行布局呢？为什么？
