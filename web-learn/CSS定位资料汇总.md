@@ -29,9 +29,12 @@
 [vertical-align的相关知识](http://www.zhangxinxu.com/wordpress/2010/05/%E6%88%91%E5%AF%B9css-vertical-align%E7%9A%84%E4%B8%80%E4%BA%9B%E7%90%86%E8%A7%A3%E4%B8%8E%E8%AE%A4%E8%AF%86%EF%BC%88%E4%B8%80%EF%BC%89/)
 
 [文本元素溢出的问题](https://m.jb51.net/css/42578.html)
+[inline-block会有空隙的问题](https://www.w3cplus.com/css/fighting-the-space-between-inline-block-elements)
 # 问题
 1. 有时候会使用`font-size: 0;`是什么意思？用float还用写这个么？
 2. 在使用`display:inline-block`进行多列布局的时候，会出现顶部不齐的现象，这是后用什么解决呢？
 解决见`twoColume/style5.css`
 
 3. 三列布局的时候，能否通过`float`和`margin`进行布局呢？为什么？
+
+4. 如何制作导航栏，可以让导航栏，贴合容器的底部。
