@@ -1,0 +1,4 @@
+[W3School JavaScript](http://www.w3school.com.cn/js/js_intro.asp)
+[MDN 什么是JavaScript？](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+一文读懂JavaScript和ECMAScript的区别
+W3School JavaScript历史
