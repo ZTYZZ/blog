@@ -14,7 +14,7 @@
 [MDN](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/First_steps/Variables) 阅读完JavaScript第一步及JavaScript基础要件
 
 
-[]()
+[阅读 通过除2取余的方法来把十进制整数转化为二进制](https://baike.baidu.com/item/十进制转二进制/393189?fr=aladdin)
 
 # 相关的问题记录
 1. 
