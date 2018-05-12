@@ -17,6 +17,7 @@
 [阅读 通过除2取余的方法来把十进制整数转化为二进制](https://baike.baidu.com/item/十进制转二进制/393189?fr=aladdin)
 
 [阅读《javascript高级程序设计》第7章和第13章]()
+[如何清晰的理解闭包？](https://www.zhihu.com/question/34547104)
 # 相关的问题记录
 1. 
 ```
