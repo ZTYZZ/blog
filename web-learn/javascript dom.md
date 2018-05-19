@@ -9,3 +9,7 @@
 
 [MDN document.querySelctor](https://developer.mozilla.org/zh-CN/docs/Web/API/Document/querySelector)
 [MDN element.querySelector](https://developer.mozilla.org/zh-CN/docs/Web/API/Element/querySelector)
+
+# 相关总结梳理
+1. 返回的是`NodeList`的方法有`querySelectorAll()`、`getElementsByTagName()`这些不是具体的元素，所以在使用的时候要取出每一个元素如`div[0]`
+2. 关于`querySelector`的转义字符的问题，多回顾回顾。
