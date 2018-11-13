@@ -11,6 +11,12 @@
 
 7. [What methods of ‘clearfix’ can I use?
 ](https://stackoverflow.com/questions/211383/what-methods-of-clearfix-can-i-use)
+8. [继承性的问题](https://blog.csdn.net/k491022087/article/details/52319252)
+
+拥有继承的通常是关于文字样式的， 所有关于盒子的、定位的、布局的属性都不能继承。
+
+9. [Css三大特性](https://blog.csdn.net/xf616510229/article/details/53613212)
+10. [继承性的问题](https://www.cnblogs.com/perfe/p/6207716.html)
 # 问题
 1. 多个盒子模型嵌套时,哪个是外层的content呢?试着仔细思考.
 
