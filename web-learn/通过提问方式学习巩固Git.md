@@ -127,6 +127,13 @@ git tag v0.9 xxx(commit id)
 `git push origin --tags//将本地所有标签推送到远程`
 
 从远程删除需要
+## Git 相关问题
+1. 更换电脑，如何进行原来的代码的修改上传？
+	首先，下载安装git
+	进行git的验证，需要重新进行密钥的绑定
+	然后进行克隆 使用`git clone XXX.github....(github地址)`
+	克隆之后要将git文件夹，放到该仓库目录下，会发现windows 会自动隐藏.git文件夹。
+	而后就可以正常修改，提交，具体命令见上.
 # 参考材料
 [廖雪峰的git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137396287703354d8c6c01c904c7d9ff056ae23da865a000)
 
