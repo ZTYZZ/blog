@@ -175,3 +175,5 @@ summary	定义 details 元素的标题
 包含`<input>`元素,根据不同的`type`属性,有很多形态. 如:`text`定义常规文本输入 `radio`定义单选按钮输入 `submit`定义提交按钮(提交表单)
 
 详见这一节:[点击跳转-->](http://www.w3school.com.cn/html/html_forms.asp)
+
+其中form表单有一个method属性，有Post Put Delete Get 方法，见此文章[点击](https://www.cnblogs.com/hyddd/archive/2009/03/31/1426026.html)
