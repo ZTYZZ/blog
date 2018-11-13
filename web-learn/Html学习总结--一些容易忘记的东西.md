@@ -177,3 +177,6 @@ summary	定义 details 元素的标题
 详见这一节:[点击跳转-->](http://www.w3school.com.cn/html/html_forms.asp)
 
 其中form表单有一个method属性，有Post Put Delete Get 方法，见此文章[点击](https://www.cnblogs.com/hyddd/archive/2009/03/31/1426026.html)
+
+25. [meta标签](http://www.w3school.com.cn/tags/tag_meta.asp)
+	[meta标签详解](https://blog.csdn.net/daydayup654/article/details/78666178)
