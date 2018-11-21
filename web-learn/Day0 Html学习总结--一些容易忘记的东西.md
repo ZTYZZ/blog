@@ -180,3 +180,9 @@ summary	定义 details 元素的标题
 
 25. [meta标签](http://www.w3school.com.cn/tags/tag_meta.asp)
 	[meta标签详解](https://blog.csdn.net/daydayup654/article/details/78666178)
+
+26. 如何用一行代码兼容浏览器版本？
+   ```
+   <meta http-equiv = "x-ua-compatible" content="IE=9">
+   ```
+   [链接如下](https://www.jb51.net/web/539341.html)
