@@ -5,6 +5,8 @@
 
 [MDN Flexbox](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/CSS_layout/Flexbox)
 
+[Dive into Flexbox](https://bocoup.com/blog/dive-into-flexbox)
+
 [学习CSS布局](http://zh.learnlayout.com/)
 
 [CSS布局(三) 布局模型](http://www.cnblogs.com/chaixiaozhi/p/8481253.html)
