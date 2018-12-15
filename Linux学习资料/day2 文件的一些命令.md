@@ -269,3 +269,69 @@
 
 		例子： 	`man ls查看ls命令的帮助信息`
 				`man services 查看配置文件services的帮助信息`
+	
+		whatis 命令
+		只读取到就简短的介绍信息。
+
+		apropos services
+		查看配置文件的简短信息。
+
+
+		touch --help（能把一些选项列出来）
+
+		help命令
+		功能描述：查看shell内置命令的帮助信息
+		例子：`help umask`查看 umask
+
+		【注意】什么是内置命令？是找不到的 内置在shell中的，所以用`which cd`就找不到相关文件，系统将会给出提示： no cd in (/usr/lib/qt-3.3/bin:/usr.....)
+
+
+用户管理命令：
+		
+		useradd
+		功能描述：添加新用户
+		语法： useradd 用户名
+		例子：`useradd yangmi`
+
+		passwd
+		功能描述：设置用户密码
+		语法：passwd 用户名
+		例子：`passwd yangmi`
+
+		who
+
+		语法：who
+		功能描述：查看登录用户信息
+		
+		返回的格式：登录用户名	登录终端（tty为本地终端：本例中则是虚拟机中登录的 pts：远程终端）	登录时间
+
+		w
+		功能描述：查看登录用户详细信息
+		例子：`w`
+
+压缩解压命令：
+		
+		第一种压缩文件 .gz
+
+		`gzip`压缩成.gz格式
+			只能压缩文件。 并且不保留原文件
+
+
+		gunzip / gzip -d
+			功能描述：解压缩.gz的压缩文件
+
+		
+		tar 
+			功能描述：打包目录
+			语法：	tar 选项[-zcf] [压缩后文件名] [目录]
+					-c 打包
+					-v 显示详细信息
+					-f 指定文件名
+					-z 打包同时压缩(放在最前面)
+			压缩后文件格式：.tar.gz
+
+		tar 
+			选项：	-x 解包
+					-v 显示详细信息
+					-f 指定压缩文件
+					-z 解压缩
